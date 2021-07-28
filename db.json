@@ -12,14 +12,14 @@
             "name": "Mashed Yellow Potatoes",
             "type": "Entre",
             "directions": "boil potatoes in salty water until soft. Drain, add milk and oil. Salt to taste",
-            "ingredients": "yellow potatoes\nmilk of your choice, olive oil"
+            "ingredients": "yellow potatoes\nmilk of your choice\nolive oil"
         },
         {
             "id": 2,
             "name": "Green juice",
             "type": "Smoothie",
             "directions": "Combine ingredients and blend until it has the consistancy of juice",
-            "ingredients": "kale, flax seeds, dates, almonds, ice"
+            "ingredients": "kale\nflax seeds\ndates\nalmonds\nice"
         }
     ]
 }
