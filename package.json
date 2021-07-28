@@ -1,0 +1,23 @@
+{
+  "name": "recipe-api",
+  "version": "1.0.0",
+  "description": "A recipe api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcgroganneil/Recipe-Api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcgroganneil/Recipe-Api/issues"
+  },
+  "homepage": "https://github.com/mcgroganneil/Recipe-Api#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
