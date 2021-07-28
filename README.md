@@ -1,5 +1,7 @@
 # Recipe-Api
 
-A recipe api
+A free open source recipe api
 
-test
+accessable at -> https://recipe-api-npm-grt.herokuapp.com/recipes
+
+enjoy
